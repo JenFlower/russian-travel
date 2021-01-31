@@ -1,0 +1,17 @@
+.header__lang-link {
+  font-size: 24px;
+  color: #e5e5e5;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-decoration: none;
+}
+
+.header__lang-link:nth-child(1) {
+  padding-right: 18px;
+}
+
+.header__lang-link:hover {
+  text-decoration: underline;
+}

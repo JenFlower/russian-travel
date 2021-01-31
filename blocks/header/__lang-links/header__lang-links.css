@@ -1,0 +1,7 @@
+.header__lang-links {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end; /* чтобы не растягивать ссылку по высоте */
+  margin: 0;
+  padding-bottom: 6px;
+}
