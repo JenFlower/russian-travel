@@ -1,0 +1,17 @@
+.intro__list {
+  font-family: Inter;
+  font-style: normal;
+  font-size: 12px;
+  line-height: 18px;
+  color: #FFFFFF;
+  list-style: none;
+  padding-left: 0;
+  padding-top: 33px;
+  margin: 0;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  text-rendering: optimizeLegibility;
+}
