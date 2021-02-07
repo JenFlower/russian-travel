@@ -1,5 +1,5 @@
 .lead__subtitle {
-  outline: 1px red solid;
+  /* outline: 1px red solid; */
   font-family: Inter;
   margin: 0 auto;
   padding: 32px 0 64px;
@@ -14,9 +14,6 @@
 }
 @media screen and (max-width: 1024px){
   .lead__subtitle {
-    /* min-width: 288px;
-    font-size: 16px;
-    line-height: 20px; */
     padding-bottom: 56px;
   }
 }

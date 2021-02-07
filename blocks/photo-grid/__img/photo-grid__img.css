@@ -9,26 +9,3 @@
     max-height: 100%;
   }
 }
-
-
-/* @media screen and (max-width: 1277px)  {
-  .photo-grid__img {
-    max-width: 100%;
-    max-height: 100%;
-  }
-} */
-
-/* @media screen and (max-width: 1023px) {
-  .photo-grid__img {
-    /* max-width: 352px;
-    max-width: 100%;
-    max-height: 100%;
-  }
-} */
-
-/* @media screen and (max-width: 766px) {
-  .photo-grid__img {
-    max-width: 100%;
-    max-height: 100%;
-  }
-} */

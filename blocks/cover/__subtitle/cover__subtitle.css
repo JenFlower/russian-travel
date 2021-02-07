@@ -1,5 +1,5 @@
 .cover__subtitle {
-  outline: 1px red solid;
+  /* outline: 1px red solid; */
   font-family: Inter;
   font-style: normal;
   font-weight: normal;
@@ -10,9 +10,6 @@
   color: #FFFFFF;
   max-width: 360px;
   padding-top: 32px;
-  /* position: relative;
-  top: 50%;
-  transform: translate(0, -50%); */
 }
 
 @media screen and (max-width: 425px) {

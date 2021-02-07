@@ -1,7 +1,6 @@
 .lead__title {
-  outline: 1px red solid;
+  /* outline: 1px red solid; */
   margin: 0 auto;
-  /* padding-top: 56px; */
   font-family: Inter;
   font-style: normal;
   font-weight: 900;
@@ -10,7 +9,6 @@
   text-align: center;
   color: #FFFFFF;
   max-width: 720px;
-  /* min-width: 288px; */
 }
 
 @media screen and (min-width: 320px) and (max-width: 720px){

@@ -1,13 +1,4 @@
 .place__content {
-  /* display: flex; */
-  /* padding-top: 48px; */
-  /* flex-wrap: wrap; */
-  /* justify-content: space-between; */
   width: 100%;
 }
 
- /* @media screen and (max-width: 768px) {
-  .place__content {
-    max-width: 100%;
-  }
-} */
