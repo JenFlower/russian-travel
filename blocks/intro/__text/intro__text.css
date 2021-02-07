@@ -14,3 +14,15 @@
   -moz-text-size-adjust: 100%;
   text-rendering: optimizeLegibility;
 }
+@media screen and (min-width: 1280px) {
+  .intro__text {
+    max-width: 690px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .intro__text {
+    max-width: 100%;
+  }
+}
+

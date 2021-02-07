@@ -1,0 +1,22 @@
+.cover__overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: rgb(42,44,47,.3);
+  border: 1px green solid;
+  /* background-color: red; */
+  width: 100vw;
+  /* height: 100vh; */
+  padding: 0;
+  z-index: 2;
+  text-decoration: none;
+}
+
+.cover__overlay:hover {
+  background: rgb(42,44,47,.8);
+}
+
+@media screen and (max-width: 425px) {
+  .cover__overlay {
+  }
+}
