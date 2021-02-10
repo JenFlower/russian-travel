@@ -1,5 +1,6 @@
 .cover__title {
   /* outline: 1px red solid; */
+  position: relative;
   font-family: Inter;
   font-style: normal;
   font-weight: 900;
