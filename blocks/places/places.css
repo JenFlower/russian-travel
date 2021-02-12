@@ -1,7 +1,7 @@
 .places {
-  /* outline: 1px red solid; */
   max-width: 984px;
   margin: auto;
+  padding: 0;
 }
 
  @media screen and (max-width: 1024px) {
@@ -16,9 +16,3 @@
   }
 }
 
-/* @media screen and (max-width: 425px) {
-  .places {
-    max-width: 100%;
-    padding: 0
-  }
-} */

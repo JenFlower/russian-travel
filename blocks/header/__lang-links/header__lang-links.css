@@ -4,4 +4,6 @@
   align-items: flex-end; /* чтобы не растягивать ссылку по высоте */
   margin: 0;
   padding-bottom: 6px;
+  list-style: none;
+  padding-left: 0;
 }

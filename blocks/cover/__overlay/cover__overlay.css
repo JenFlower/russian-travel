@@ -11,25 +11,27 @@
 
 .cover__overlay:hover {
   background: rgb(42,44,47,.8);
+  transition: 1s;
+}
+
+.cover__overlay:not(:hover) {
+  transition: 3s;
 }
 
 @media screen and (max-width: 1024px) {
   .cover__overlay {
-    max-width: 100%;
     min-height: 640px;
   }
 }
 
 @media screen and (max-width: 768px) {
   .cover__overlay {
-    max-width: 100%;
     min-height: 480px;
   }
 }
 
 @media screen and (max-width: 425px) {
   .cover__overlay {
-    max-width: 100%;
     min-height: 200px;
   }
 }

@@ -1,8 +1,7 @@
 .header {
   /* outline: 1px red solid; */
   max-width: 1184px;
-  height: 52px;
-
+  min-height: 52px;
   display: flex;
   justify-content: space-between;
   margin: 0 auto;
@@ -20,7 +19,7 @@
   .header {
     padding-left: 24px;
     padding-right: 24px;
-    padding-bottom: 48px;
+    /* padding-bottom: 48px; */
   }
 }
 

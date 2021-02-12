@@ -1,7 +1,13 @@
 .place__url-block {
-  /* outline: 1px red solid; */
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
+  align-items: flex-start;
 
+}
+
+@media screen and (max-width: 768px) {
+  .place__url-block {
+    padding-left: 16px;
+  }
 }

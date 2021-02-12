@@ -2,6 +2,7 @@
   /* outline: 1px red solid; */
   margin: auto;
   max-width: 984px;
+  line-height: 0;
 }
 
 @media screen and (max-width: 1024px) {

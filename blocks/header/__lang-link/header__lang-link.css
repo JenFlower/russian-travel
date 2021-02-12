@@ -1,3 +1,5 @@
+/* Возможно, я как-то не так проверяла, но у меня отступ сохраняется */
+
 .header__lang-link {
   font-size: 24px;
   color: #e5e5e5;
@@ -12,13 +14,10 @@
   padding-right: 18px;
 }
 
-.header__lang-link:hover {
-  text-decoration: underline;
-}
-
 @media screen and (max-width: 320px) {
   .header__lang-link {
     font-size: 18px;
     line-height: 20px;
   }
 }
+
