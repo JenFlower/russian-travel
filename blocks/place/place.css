@@ -15,28 +15,15 @@
     gap: 48px 32px;
   }
 }
-/*
-@media screen and (min-width: 768px) {
-  .place {
-    grid-template-columns: 460px 1fr;
-    gap: 48px 28px;
-  }
 
-} */
-
-
-@media screen and (max-width: 769px) {
+@media screen and (max-width: 950px) {
   .place {
     grid-template-columns: 340px 1fr;
-    gap: 48px 32px;
-    /* grid-template-columns: 100%;
-    row-gap: 32px;
-    column-gap: 0;
-    padding-top: 73px; */
+    gap: 48px 28px;
   }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 767px) {
   .place {
     padding-top: 50px;
     grid-template-columns: 100%;

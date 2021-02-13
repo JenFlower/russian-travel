@@ -8,21 +8,25 @@
   margin: 0;
   color: #FFFFFF;
   max-width: 484px;
-  white-space:pre-line;
 }
 
+
+.place__paragraph:nth-child(1) {
+  /* outline: 1px red solid; */
+  padding-bottom: 26px;
+}
  @media screen and (max-width: 1024px) {
   .place__paragraph {
-    max-width: 456px;
+    max-width: 100%;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .place__paragraph {
     max-width: 100%;
     font-size: 16px;
     line-height: 26.08px;
-    padding-left: 16px;
-
+    /* padding-left: 16px; */
+    padding: 0 16px;
   }
 }

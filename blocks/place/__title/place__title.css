@@ -17,12 +17,14 @@
     max-width: 440px;
   }
 }
+@media screen and (max-width: 1000px) {
+  .place__title {
+    font-size: 54px;
+  }
+}
 
  @media screen and (max-width: 768px) {
   .place__title {
-    /* никак не получается перенести текст на новую строку
-    с таким размером шрифта он отлично помещается в одной строке
-    может ли быть какая-то ошибка в макете? */
     font-size: 42px;
     line-height: 46px;
   }
